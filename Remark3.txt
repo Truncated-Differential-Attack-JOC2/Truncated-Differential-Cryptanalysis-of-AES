@@ -118,7 +118,7 @@ int main() {
 
 
     printf("\n Average * combination(4,m) = Pr[2->j] * 4");
-    printf("\n %.20f =  %.20f", log2(triple_sum_result1), log2(triple_sum_result1));
+    printf("\n %.20f =  %.20f", log2(triple_sum_result1), log2(triple_sum_result2));
     return 0;
 }
 
